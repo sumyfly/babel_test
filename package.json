@@ -17,5 +17,8 @@
     "eslint": "^3.9.1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
 }
